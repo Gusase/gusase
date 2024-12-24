@@ -1,7 +1,7 @@
 <br/>
 <samp>
 
-Sending me a message on [Telegram](https://gusase_gag.t.me) is the best way to reach me.
+Dispatch unto me a missive through [Telegram](https://gusesa_gag.t.me).
 
-And here's my [PGP key](https://github.com/gusase.gpg) in case you wanna encrypt your message.
+Use my [PGP key](https://github.com/gusase.gpg) to encrypt your message(s).
 </samp>
